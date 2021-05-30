@@ -1,0 +1,31 @@
+nav {
+    list-style-type:none;
+    margin: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+    font-size-adjust: 300;
+    background-color:rgb(213, 224, 255);
+    position:fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+  }
+a {
+   display: inline;
+   padding: 5px
+}
+
+footer{
+  text-align: center;
+Hello
+}
+img{
+  padding-top: 20px
+
+}
+body{
+  background-image:url(https://www.officescapellp.co.uk/wp-content/uploads/2020/04/Stay-Safe-Image-2.jpg);
+  background-position: center;
+
+  background-size: cover;
+}
